@@ -1,2 +1,2 @@
 # TathastuVastu
-This is website.
+*This is website.
